@@ -1,0 +1,5 @@
+print("Digite seu nome: ")
+nome = io.read()
+print("Digite sua idade: ")
+num = io.read("*number")
+print(nome, num)
